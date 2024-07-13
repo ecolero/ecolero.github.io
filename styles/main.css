@@ -1,0 +1,23 @@
+html {
+  font-family: verdana;
+  height: 100%;
+  background: linear-gradient(160deg,pink,purple);
+}
+#title { 
+ font-family: Great Vibes; 
+ font-size:5em; 
+}
+
+#under_const{
+  background-color: white;
+  width: 75%;
+  margin: auto;
+  border-radius: 1em;
+}
+.text-centered{text-align: center}
+.div-centered{margin: auto;}
+.img-centered{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
