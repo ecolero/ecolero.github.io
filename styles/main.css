@@ -1,12 +1,12 @@
 html {
   font-family: verdana;
-  font-size: 2em ;
   height: 100%;
+  font-size: 2em;
   background: linear-gradient(160deg,pink,purple);
 }
 #title { 
  font-family: Great Vibes; 
- font-size:6em; 
+ font-size:4em; 
 }
 
 #under_const{
