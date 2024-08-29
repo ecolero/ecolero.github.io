@@ -1,11 +1,21 @@
 @media only screen and (min-width: 1025px) {
-  html{
-    font-size: 1em ;
-  }
-  #title {
-    font-size:4em; 
-  }
-  #under_const{
-    width: 40%;
-  }
+    html{
+        font-size: 1em ;
+    }
+    #title {
+        font-size:4em; 
+    }
+    #under_const{
+        width: 35%;
+    }
+    .cover_image{
+        width:20em;
+    }
+    
+    .card_banner{
+        font-size:2em;
+    }
+    .footer-container{
+      width:15%;
+    }
 }
