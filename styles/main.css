@@ -3,6 +3,8 @@ html {
   height: 100%;
   font-size: 2em;
   background: linear-gradient(160deg,pink,purple);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 #title { 
   font-family: Great Vibes; 
